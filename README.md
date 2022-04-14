@@ -1,5 +1,5 @@
 # SCIENCE BEHIND THE PROJECT:
-The test experiments carried out at FLNR are:
+The test experiments carried out at Flerov Laborarory of Nuclear Reactions, JINR are:
 1. 40Ar + 148Sm → 188−xHg + xn
 2. 40Ar + 166Er → 206−xRn + xn
 3. 48Ca + 242P u → (Any element whose Z varies from 20-114)
