@@ -2,7 +2,8 @@
 The test experiments carried out at Flerov Laborarory of Nuclear Reactions, JINR are:
 1. 40Ar + 148Sm → 188−xHg + xn
 2. 40Ar + 166Er → 206−xRn + xn
-3. 48Ca + 242P u → (Any element whose Z varies from 20-114)
+3. 48Ca + 242Pu → (Any element whose Z varies from 20-114)
+
 The first and second nuclear reactions are complete fusion reactions neutron
 evaporation residues. In such types of reactions the product nucleus formed
 has no. of protons exactly equal to no. of protons of projectile particle +
@@ -17,8 +18,7 @@ MeV (for 40Ar + 148Sm) and with energy ˜198 MeV (40Ar + 166Er). The
 high energetic projectile particle enters into the MASHA setup and induce a
 nuclear reaction by colliding with target material sputtered in rotating disc
 present in target box of MASHA facility. The products of nuclear reaction
-are isotopes of Hg (for 40Ar + 148Sm) and Rn (for 40Ar + 166Er and 48Ca
-+ 242P u) which are stopped by the absorber material of hot catcher.
+are isotopes of Hg (for 40Ar + 148Sm) and Rn (for 40Ar + 166Er and 48Ca + 242Pu) which are stopped by the absorber material of hot catcher.
 The absorber material is generally made up of thin film of graphite or carbon
 nanotubes which is heated to around 1800 − 2000oC by means of IR radiations coming out from poly-graphene heater as well as by a direct current
 passing through the absorber. This absorber stops the isotopic products of
